@@ -67,7 +67,7 @@ dotnet run
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
 - To report an issue specific to this sample, open a GitHub issue in this repository.
-- For feature documentation, see the Syncfusion Blazor DataGrid with Dapper documentation: https://blazor.syncfusion.com/documentation/datagrid/connecting-to-orm/dapper
+- For feature documentation, see the Syncfusion Blazor DataGrid with Dapper documentation: https://help.syncfusion.com/grid-sdk/blazor/data-grid/connecting-to-orm/dapper
 
 ## License
 
