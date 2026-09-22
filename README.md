@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to integrate the Syncfusion Blazor DataGrid with SQL Server using the Dapper micro-ORM to perform Create, Read, Update, and Delete (CRUD) operations. The application uses a Bug Tracker database where records are retrieved from and persisted to SQL Server through Dapper data-access methods. The sample illustrates a practical database-driven DataGrid workflow that enables users to manage bug records directly from the grid interface while keeping data synchronized with the underlying database.
+This sample demonstrates how to integrate the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) with SQL Server using the Dapper micro-ORM to perform Create, Read, Update, and Delete (CRUD) operations. The application uses a Bug Tracker database where records are retrieved from and persisted to SQL Server through Dapper data-access methods. The sample illustrates a practical database-driven DataGrid workflow that enables users to manage bug records directly from the grid interface while keeping data synchronized with the underlying database.
 
 ## Key Features
 
